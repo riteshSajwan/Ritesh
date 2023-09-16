@@ -6,7 +6,10 @@
 
 - 🌱 I’m an  Engineer who graduated in 2023(IT) Proficient in languages and technologies like C++, Java, HTML5, CSS, JavaScript, React.js, Node.js, MongoDB, MySql, Github, and Linux.
 
-  - Having 2+ years of hands-on experience in making full stack webapplications  using MERN stack.
+  - Experience
+  - Currently working at Evon Technologies as a React js/Native Developer
+  - 5month of Internship as a React and Node.js developer at Behere Elite Private Ltd
+  - Having 2+ years of hands-on experience in making full stack webapplications  using React and Node.js.
 
 - 📄 Know about my experiences [https://portfolio-ritesh9211.vercel.app/](https://portfolio-ritesh9211.vercel.app/)
 
