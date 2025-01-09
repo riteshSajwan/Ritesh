@@ -4,16 +4,16 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ritesh9211&label=Profile%20views&color=0e75b6&style=flat" alt="ritesh9211" /> </p>
 
-- 🌱 I’m an  Engineer who graduated in 2023(IT) Proficient in languages and technologies like C++, Java, HTML5, CSS, JavaScript, React.js, Node.js, MongoDB, MySql, Github, and Linux.
+- 🌱 Passionate Associate Software Developer with 1.5 years of experience in full-stack web development using React.js, TypeScript, and Node.js. Expertise in API integration, Redux, and Saga for seamless data 
+     fow. Proficient in backend technologies and containerization, ensuring scalable and reliable deploymentsLinux.
 
   - Experience
-  - Currently working at Evon Technologies as a React js/Native Developer
+  - Currently working at Evon Technologies as a Full stack Developer
   - 5month of Internship as a React and Node.js developer at Behere Elite Private Ltd
-  - Having 2+ years of hands-on experience in making full stack webapplications  using React and Node.js.
 
-- 📄 Know about my experiences [https://portfolio-ritesh9211.vercel.app/](https://portfolio-ritesh9211.vercel.app/)
+- 📄 Know about my experiences [https://portfolio-one-sand-40.vercel.app/](https://portfolio-one-sand-40.vercel.app/)
 
-- 💬 Ask me about **JavaScript,C++,HTML,CSS,React.js**
+- 💬 Ask me about **Node.js,JavaScript,C++,HTML,CSS,React.js**
 
 - 📫 How to reach me **riteshsaj8958@gmail.com**
 
